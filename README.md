@@ -1,4 +1,4 @@
 An-Introduction-to-Interactive-Programming-in-Python-
 =====================================================
 
-Mini-projects 
+"An Introduction to Interactive Programming in Python" by Joe Warren, John Greiner, Stephen Wong, Scott Rixner(Rice) Coursera Mini-projects 
